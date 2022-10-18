@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bunyan": "^1.8.15",
+    "moment": "^2.29.4",
     "pg": "^8.8.0"
   }
 }
