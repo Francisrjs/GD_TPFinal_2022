@@ -1,1 +1,46 @@
-October 18 2022, 2:01:45 pmNaN
+Error
+October 21 2022, 3:06:29 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+October 21 2022, 3:06:41 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+October 21 2022, 3:06:41 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+October 21 2022, 3:06:49 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+October 21 2022, 3:12:36 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+Error
+October 23 2022, 9:15:29 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+October 23 2022, 9:16:05 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+October 23 2022, 9:17:16 pmError
+
+ October 23 2022, 9:17:49 pmError
+ 
+ October 23 2022, 9:18:17 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+ October 23 2022, 9:23:49 pmSELECT sc_e002.copy_table( 'sc_e002', 'sc_e002', 'sc_e002.p_icrdd', 'sc_e002.p_icrbd' );
+ October 23 2022, 9:24:23 pmSELECT sc_e002.copy_table( 'sc_e002', 'sc_e002', 'sc_e002.p_icrdd', 'sc_e002.p_icrbd' );
+ October 23 2022, 9:36:51 pmSELECT sc_e002.copy_table( 'sc_e002', 'sc_e002', 'sc_e002.p_icrdd', 'sc_e002.p_icrbd' );
+ October 23 2022, 9:37:03 pmError
+ 
+ October 23 2022, 9:37:13 pmError
+ 
+ October 23 2022, 9:37:37 pmSELECT ('sc_e002.p_icrdd','sc_e002')
+ October 23 2022, 9:37:51 pmSELECT ('p_icrdd','sc_e002')
+ October 23 2022, 9:39:43 pmSELECT ('p_icrdd','sc_e003')
+ October 23 2022, 9:39:49 pmSELECT ('p_icrdd','sc_e004')
+ October 23 2022, 9:40:26 pmSELECT ('p_icrdds','sc_e004')
+ October 23 2022, 9:40:37 pmSELECT ('p_icrdds','sc_e004')
+ October 23 2022, 9:42:02 pmSELECT ('p_icrdds','sc_e004')
+ October 23 2022, 9:42:02 pmError
+ 
+ October 23 2022, 9:42:16 pmSELECT ('p_icrdd','sc_e004')
+ October 23 2022, 9:42:34 pm
+ October 23 2022, 9:42:34 pmError
+ 
+ October 23 2022, 9:42:45 pm
+ October 23 2022, 9:42:45 pmError
+ 
+ October 23 2022, 10:04:36 pmSELECT sc_e002.tbl_check('p_icrdd','sc_e004')
+ October 23 2022, 10:04:49 pmSELECT sc_e002.tbl_check('p_icrddERROR','sc_e004')
+ October 23 2022, 10:20:29 pmSELECT sc_e002.tbl_check('p_icrddERROR','sc_e004')
+ October 24 2022, 10:54:46 pmSELECT sc_e002.tbl_check('p_icrddERROR','sc_e004')
+ October 24 2022, 10:55:01 pmSELECT sc_e002.tbl_check('p_icrddERROR','sc_e004')
+ October 24 2022, 10:55:54 pmSELECT fvapnam, ftscprd  FROM sc_e005.p_appapp_dat;
+ October 24 2022, 11:03:59 pmSELECT sc_e002.copy_table( 'sc_e002', 'sc_e002', 'sc_e002.p_icrdd', 'sc_e002.p_icrbd' );
+ October 24 2022, 11:06:50 pmSELECT sc_e002.copy_table( 'sc_e002', 'sc_e002', 'sc_e002.p_icrdd', 'sc_e002.p_icrbd' );
+ October 24 2022, 11:07:26 pmSELECT sc_e002.copy_table( 'sc_e002', 'sc_e002', 'sc_e002.p_icrdd', 'sc_e002.p_icrbd' );
