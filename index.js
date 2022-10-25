@@ -21,7 +21,7 @@ const date = new Date();
 const getTabla = async()=>{
     try{
  console.log(moment().format('MMMM DD YYYY, h:mm:ss a')); //fecha
-    pool.query("SET search_path TO 'sc_e002';"); 
+    pool.query(query); 
     const res= (await pool.query(query));
     //Proceso de guardado
     fs.appendFileSync('LogsPostgres.txt','\n ');
